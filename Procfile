@@ -1,3 +1,3 @@
-worker: python3 -m Marvelrobot
-web: python3 -m Marvelrobot
+worker: python3 -m SaitamaRobot
+web: python3 -m SaitamaRobot
 ps:scale worker=1
