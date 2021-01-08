@@ -1,6 +1,6 @@
 ![MARVEL](https://telegra.ph/file/877f0d69c80697a4416cf.jpg)
 
-# Romeo
+# MARVEL
 
 [![Updates channel!](https://img.shields.io/badge/Join%20Channel-!-red)](https://telegram.me/Romeo1Bot_Support)
 
