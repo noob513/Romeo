@@ -7,9 +7,9 @@
 
 A modular Telegram Python bot running on python3 with a sqlalchemy database and an entirely themed persona to make Saitama suitable for Anime and Manga group chats. 
 
-Can be found on telegram as [Romeo](https://telegram.me/Romeo1Bot).
+Can be found on telegram as [Greninja ](http://t.me/marvelopbot).
 
-The Support group can be reached out to at [Romeo Bot Support](https://telegram.me/Romeo1Bot_Support), where you can ask for help about [Romeo](https://telegram.me/Romeo1Bot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
+The Support group can be reached out to at [MARVEL SUPPORT (@marvelbotsupport), where you can ask for help about [MARVEL](http://t.me/marvelopbot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
 
 ## How to setup/deploy.
 
