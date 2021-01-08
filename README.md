@@ -2,12 +2,13 @@
 
 # MARVEL
 
-[![Updates channel!](https://img.shields.io/badge/Join%20Channel-!-red)](https://telegram.me/Romeo1Bot_Support)
+[![Updates channel!](https://img.shields.io/badge/Join%20Channel-!-red)](@marvelbotsupport1
+)
 
 
 A modular Telegram Python bot running on python3 with a sqlalchemy database and an entirely themed persona to make Saitama suitable for Anime and Manga group chats. 
 
-Can be found on telegram as [Greninja ](http://t.me/marvelopbot).
+Can be found on telegram as [MARVEL ](http://t.me/marvelopbot).
 
 The Support group can be reached out to at [MARVEL SUPPORT (@marvelbotsupport), where you can ask for help about [MARVEL](http://t.me/marvelopbot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
 
@@ -29,7 +30,7 @@ REMEMBER: Turn on worker dyno (Don't worry It's free :D) & Webhook
 Now send the bot /start, If it doesn't respond go to https://dashboard.heroku.com/apps/(app-name)/settings and remove webhook and port.
 ```
 
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/madboy482/Romeo.git)
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/noob513/Romeo.git)
 
 </details>  
 <details>
@@ -56,8 +57,8 @@ An example `config.py` file could be:
 from SaitamaRobot.sample_config import Config
 
 class Development(Config):
-    OWNER_ID = 1078841825  # your telegram ID
-    OWNER_USERNAME = "Warning_MadBoy_is_Here"  # your telegram username
+    OWNER_ID = 1216123166  # your telegram ID
+    OWNER_USERNAME = "Swami_2_0_0_5"  # your telegram username
     API_KEY = "your bot api key"  # your api key, as provided by the @botfather
     SQLALCHEMY_DATABASE_URI = 'postgresql://username:password@localhost:5432/database'  # sample db credentials
     JOIN_LOGGER = '-1234567890' # some group chat that your bot is a member of
@@ -74,7 +75,7 @@ So just go and read the config sample file.
 ## How to setup on Heroku 
 For starters click on this button 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/madboy482/Romeo.git) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/noob513/Romeo.git) 
 
 
 ## Credits
